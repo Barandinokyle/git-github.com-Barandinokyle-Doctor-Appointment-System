@@ -1,0 +1,68 @@
+
+.promo-2{
+	background: linear-gradient(to left, #0033cc 0%, #00ffff 95%);
+}
+
+.container .alert-danger{
+	border-radius: 30px;
+	color: #fff;
+	font-family: Verdana;
+	border: none;
+}
+.alert-danger{
+	background: linear-gradient(to right, #0066cc 0%, #9900cc 95%);
+	font-family: Verdana;
+}
+
+.content-1-9{
+	background: linear-gradient(to left, #0033cc 0%, #00ffff 95%);
+	color: cornsilk;
+}
+
+.container .strong{
+	color: #fff;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+.navbar {
+    font-size: 20px;
+    background:#fff;
+    color: white;
+    border: none;
+}
+
+/** PROFILE BACKGROUND*/
+
+.user-wrapper .description {
+    padding: 25px;
+	background-color:#000;
+	
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #fff;
+}
+body{
+	background: linear-gradient(to left, #0033cc 0%, #00ffff 95%);
+}
+
+/** */
+.panel-default {
+	border-color: transparent;
+    background-color: rgba(255, 255, 255,);
+	color: #000;
+}
+
+p {
+    margin: 0 0 10px;
+    color: white;
+}
+
+
+

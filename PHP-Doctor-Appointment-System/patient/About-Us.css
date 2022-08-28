@@ -1,0 +1,5 @@
+body{
+    background-image: rgba(76, 175, 80, 0.3)  url('../patient/assets/img/Doctors2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
